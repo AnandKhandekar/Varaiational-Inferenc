@@ -1,2 +1,2 @@
-# Varaiational-Inferenc
+# Varaiational-Inference
 One of the core problems of modern statistics is to approximate difficult-to-compute probability densities. This problem is especially important in Bayesian statistics, which frames all inference about unknown quantities as a calculation involving the posterior density.variational inference (VI), a method from machine learning that approximates probability densities through optimization.
